@@ -16,5 +16,3 @@ class Enclosing {
       }        
    }; // declaration Nested class ends here 
 }; // declaration Enclosing class ends here 
-  
-  
